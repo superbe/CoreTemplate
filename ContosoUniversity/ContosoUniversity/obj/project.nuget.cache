@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBKiLYoKoCY1sHQ78d82YmEp3C5mFw4uU3sLXsU15l/hGljq/Sy91uCNXrBPeVR1RFCKUqrMfncH7knKzuInuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Programmer\\Documents\\source\\repository\\my\\CoreTemplate\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Programmer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
